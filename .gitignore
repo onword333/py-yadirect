@@ -1,0 +1,4 @@
+test*.*
+*.csv
+*.tsv
+__pycache__
